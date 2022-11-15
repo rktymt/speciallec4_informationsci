@@ -11,3 +11,6 @@ Choices
 5. None
 6. All
 7. Others
+
+Answers
+1. Backstroke
